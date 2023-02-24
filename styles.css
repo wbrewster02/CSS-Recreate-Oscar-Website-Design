@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Roboto+Slab:wght@500&family=Source+Sans+Pro:wght@200;400;600&display=swap');
+body {
+    width: 700px;
+    margin: auto;
+    padding: 4px;
+    background-color: rgb(255, 255, 255);
+    font-family: sans-serif ;
+}
+
+title {
+    text-align: center;
+    background-color: rgb(29, 189, 162);
+}
+ul {
+    list-style: none;
+    padding: 2px;
+}
+nav {
+
+    display: inline-block;
+    background-color: rgb(3, 136, 252);
+    padding: 8px;
+    position: sticky;
+    top:0;
+    border: 2px solid;
+    font-family: Impact, 'Arial Narrow Bold', sans-serif;
+    
+}
